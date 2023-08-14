@@ -1,11 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
-using MongoDB.Bson;
 using MongoDB.Driver;
-using Newtonsoft.Json;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 using movieSolution.Models;
-using Microsoft.AspNetCore.DataProtection.KeyManagement;
 
 namespace movieSolution.Services;
 

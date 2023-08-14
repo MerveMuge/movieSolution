@@ -1,8 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using MongoDB.Bson;
 using MongoDB.Driver;
-using System.Xml.Linq;
-using ThirdParty.BouncyCastle.Asn1;
 using movieSolution.Models;
 
 namespace movieSolution.Services;
