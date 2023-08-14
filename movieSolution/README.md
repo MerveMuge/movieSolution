@@ -51,12 +51,12 @@ Response Body :
 
 ▪ HTTP-GET to get all stored request entries
 
-Get all movies as an admin and append the apiKey(1088) to the get request.
+Get all movies as an admin and append the apiKey(8a276f9) to the get request.
 
 Return the movies.
 ``` bash
 curl -X 'GET' \
-  'https://localhost:7244/Movie/1088' \
+  'https://localhost:7244/Movie?apiKey=8a276f9' \
   -H 'accept: */*'
 ```
 Response Body :
@@ -83,11 +83,11 @@ Response Body :
 
 ▪ HTTP-GET to get a single request entry
 
-Get a movie as an admin by searching for its title. The apiKey(1088) must be used to authenticate. Return the movie.
+Get a movie as an admin by searching for its title. The apiKey(8a276f9) must be used to authenticate. Return the movie.
 
 ``` bash
 curl -X 'GET' \
-  'https://localhost:7244/Movie/1088/search/title/Titanic' \
+  'https://localhost:7244/Movie/search/title/Titanic?apiKey=8a276f9' \
   -H 'accept: */*'
 ```
 Response Body :
@@ -105,11 +105,11 @@ Response Body :
 
 Get movies as an admin, returning only those movies whose timestamps are within the period definition.
 
-The apiKey(1088) must be used to authenticate.
+The apiKey(8a276f9) must be used to authenticate.
 
 ``` bash
 curl -X 'GET' \
-  'https://localhost:7244/Movie/1088/search/period?startYear=2000&startMonth=01&startDay=03&endYear=2023&endMonth=07&endDay=01' \
+  'https://localhost:7244/Movie/search/period?apiKey=8a276f9&startYear=2005&startMonth=03&startDay=10&endYear=2015&endMonth=04&endDay=08' \
   -H 'accept: */*'
 ```
 
@@ -128,11 +128,11 @@ Response Body :
 ```
 ▪ HTTP-GET to report usage on per day (DD-MM-YYYY)
 
-The apiKey(1088) must be used to authenticate as an Admin.
+The apiKey(8a276f9) must be used to authenticate as an Admin.
 
 ``` bash
 curl -X 'GET' \
-  'https://localhost:7244/Movie/1088/counter' \
+  'https://localhost:7244/Movie/counter?apiKey=8a276f9' \
   -H 'accept: */*'
 ```
 Response Body:
@@ -155,22 +155,22 @@ Response Body:
 ```
 ▪ HTTP-DELETE to delete an request entry
 
-The apiKey(1088) must be used to authenticate as an Admin.
+The apiKey(8a276f9) must be used to authenticate as an Admin.
 
 ``` bash
 curl -X 'DELETE' \
-  'https://localhost:7244/Movie/1088/1111cce1b62a3d5ec8a276f9' \
+  'https://localhost:7244/Movie/1237cce1b62a3d5ec8a276f9?apiKey=8a276f9' \
   -H 'accept: */*'
 ```
 
 ▪ BONUS ENDPOINT 
 
 HTTP-GET to get movie by imdbId.
-The apiKey(1088) must be used to authenticate as an Admin.
+The apiKey(8a276f9) must be used to authenticate as an Admin.
 
 ``` bash
 curl -X 'GET' \
-  'https://localhost:7244/Movie/1088/search/ImbdId/1233' \
+  'https://localhost:7244/Movie/search/ImbdId/1233?apiKey=8a276f9' \
   -H 'accept: */*'
 ``` 
 Response Body:

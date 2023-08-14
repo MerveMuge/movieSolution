@@ -3,7 +3,7 @@ using movieSolution.Services;
 
 namespace movieSolution.Controllers;
 
-[Route("/[controller]/{apiKey}")]
+[Route("/[controller]")]
 [ApiController]
 public class MovieController : Controller
 {
