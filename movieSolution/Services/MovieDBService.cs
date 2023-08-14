@@ -7,17 +7,17 @@ using movieSolution.Models;
 
 namespace movieSolution.Services;
 
-public class MongoDBService
+public class MovieDBService
 {
 
     private readonly IMongoCollection<Movie> _movieCollection;
 
 
-    public MongoDBService(IOptions<MongoDBSettings> mongoDBSettings)
+    public MovieDBService(IOptions<MovieDBSettings> movieDBSettings)
     {
-        MongoClient client = new MongoClient(mongoDBSettings.Value.ConnectionURI);
-        IMongoDatabase database = client.GetDatabase(mongoDBSettings.Value.DatabaseName);
-        _movieCollection = database.GetCollection<Movie>(mongoDBSettings.Value.CollectionName);
+        MongoClient client = new MongoClient(movieDBSettings.Value.ConnectionURI);
+        IMongoDatabase database = client.GetDatabase(movieDBSettings.Value.DatabaseName);
+        _movieCollection = database.GetCollection<Movie>(movieDBSettings.Value.CollectionName);
     }
 
     public async Task<List<Movie>> GetAsync()

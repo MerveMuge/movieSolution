@@ -13,7 +13,7 @@ public class ApiKeyDBService
 {
     private readonly IMongoCollection<ApiKey> _keyCollection;
 
-    public ApiKeyDBService(IOptions<KeyDBSettings> keyDBSettings)
+    public ApiKeyDBService(IOptions<ApiKeyDBSettings> keyDBSettings)
     {
         MongoClient client = new MongoClient(keyDBSettings.Value.ConnectionURI);
 

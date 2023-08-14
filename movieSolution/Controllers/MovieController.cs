@@ -13,11 +13,11 @@ namespace movieSolution.Controllers;
 [ApiController]
 public class MovieController : Controller
 {
-    private readonly MongoDBService _mongoDBService;
+    private readonly MovieDBService _mongoDBService;
     private readonly ApiKeyDBService _keyDBSerice;
     private readonly ILogger<MovieController> _logger;
 
-    public MovieController(MongoDBService mongoDBService, ILogger<MovieController> logger, ApiKeyDBService keyDBSerice)
+    public MovieController(MovieDBService mongoDBService, ILogger<MovieController> logger, ApiKeyDBService keyDBSerice)
     {
         _mongoDBService = mongoDBService;
         _logger = logger;

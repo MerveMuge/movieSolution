@@ -4,13 +4,11 @@ using movieSolution.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.Configure<KeyDBSettings>(builder.Configuration.GetSection("ApiKeyDB"));
+builder.Services.Configure<ApiKeyDBSettings>(builder.Configuration.GetSection("ApiKeyDB"));
 builder.Services.AddSingleton<ApiKeyDBService>();
 
-builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
-builder.Services.AddSingleton<MongoDBService>();
-
-
+builder.Services.Configure<MovieDBSettings>(builder.Configuration.GetSection("MovieDB"));
+builder.Services.AddSingleton<MovieDBService>();
 
 // Add services to the container.
 
