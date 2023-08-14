@@ -1,0 +1,196 @@
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\appsettings.json
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\movieSolution.exe
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\movieSolution.deps.json
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\movieSolution.runtimeconfig.json
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\movieSolution.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\DnsClient.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MaxMind.Db.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MaxMind.GeoIP2.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Snappier.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\merve\source\repos\movieSolution\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfo.cs
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.movieSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.build.movieSolution.props
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movieSolution.props
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movieSolution.props
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\scopedcss\bundle\movieSolution.styles.css
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CopyComplete
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.dll
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\refint\movieSolution.dll
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\movieSolution.genruntimeconfig.cache
+C:\Users\merve\source\repos\movieSolution\obj\Debug\net7.0\ref\movieSolution.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\appsettings.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.exe
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.deps.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.runtimeconfig.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\DnsClient.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MaxMind.Db.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MaxMind.GeoIP2.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Snappier.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfo.cs
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.movieSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.build.movieSolution.props
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movieSolution.props
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movieSolution.props
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\scopedcss\bundle\movieSolution.styles.css
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CopyComplete
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\refint\movieSolution.dll
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.genruntimeconfig.cache
+C:\Users\merve\source\repos\Yeni klasör\movieSolution\obj\Debug\net7.0\ref\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\appsettings.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\movieSolution.exe
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\movieSolution.deps.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\movieSolution.runtimeconfig.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\DnsClient.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MaxMind.Db.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MaxMind.GeoIP2.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Snappier.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfoInputs.cache
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfo.cs
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.movieSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.build.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\scopedcss\bundle\movieSolution.styles.css
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CopyComplete
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\refint\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\movieSolution.genruntimeconfig.cache
+C:\Users\merve\OneDrive\Belgeler\movieSolution\movieSolution\obj\Debug\net7.0\ref\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfoInputs.cache
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.AssemblyInfo.cs
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\refint\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\appsettings.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.exe
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.deps.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.runtimeconfig.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\movieSolution.pdb
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\DnsClient.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MaxMind.Db.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MaxMind.GeoIP2.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Snappier.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.movieSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.build.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.movieSolution.props
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\scopedcss\bundle\movieSolution.styles.css
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.csproj.CopyComplete
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\movieSolution.genruntimeconfig.cache
+C:\Users\merve\OneDrive\Belgeler\Yeni klasör\movieSolution\obj\Debug\net7.0\ref\movieSolution.dll
